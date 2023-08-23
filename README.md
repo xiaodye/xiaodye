@@ -1,24 +1,8 @@
 ### Hi there 👋
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html" alt="Top Languages">
-  </a>
-</div>
-
-
-
-
-
-
 
 
 ### Skill
