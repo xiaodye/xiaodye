@@ -1,6 +1,38 @@
 ### Hi there 👋
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html" alt="Top Languages">
+  </a>
+</div>
+
+
+
+
+
+
+
+
+### Skill
+![](https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-2c3a42?style=flat&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+
+
+
+
+
 
 
 
