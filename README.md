@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodye&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Skill
+### Skills
 ![](https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
