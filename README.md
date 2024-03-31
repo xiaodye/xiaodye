@@ -8,10 +8,12 @@
 ### Skill
 ![](https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-2c3a42?style=flat&logo=webpack&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+
 
 
 
