@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
