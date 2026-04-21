@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-LangChain.js-1C3C3C?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjAgM0wxIDExbDE5IDggMTktOHpNMyAxOUwxIDI3bDE5IDggMTktOHoiLz48L3N2Zz4=)
 
 
 
