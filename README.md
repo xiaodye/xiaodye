@@ -4,10 +4,10 @@
 - [掘金](https://juejin.cn/user/2586497355625341/posts)
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats-eight-ashy-58.vercel.app/api?username=xiaodye&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-xiaodye.vercel.app/api?username=xiaodye&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-eight-ashy-58.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xiaodye.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills
