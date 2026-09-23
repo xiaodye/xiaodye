@@ -1,45 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-### Blogs
-- [掘金](https://juejin.cn/user/2586497355625341/posts)
+# Hi, I'm xiaodye 👋
 
-### Stats
-[![Anurag's GitHub stats](https://github-readme-stats-xiaodye.vercel.app/api?username=xiaodye&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+**把想法写成代码，把代码沉淀成文章。**
 
-### Top Languages
-[![Top Langs](https://github-readme-stats-xiaodye.vercel.app/api/top-langs/?username=xiaodye&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://juejin.cn/user/2586497355625341/posts">
+  <img src="https://img.shields.io/badge/掘金-阅读我的文章-1E80FF?style=flat-square&logo=juejin&logoColor=white" alt="掘金" />
+</a>
+<a href="https://github.com/xiaodye">
+  <img src="https://img.shields.io/badge/GitHub-xiaodye-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
+</div>
 
-### Skills
-![](https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/-LangChain.js-1C3C3C?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjAgM0wxIDExbDE5IDggMTktOHpNMyAxOUwxIDI3bDE5IDggMTktOHoiLz48L3N2Zz4=)
+## About me
 
+- 关注 Web 开发、工程效率与 AI 工具
+- 喜欢把实践整理成可复用的代码和文字
+- 欢迎通过 [掘金](https://juejin.cn/user/2586497355625341/posts) 交流想法
 
+## GitHub overview
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats-xiaodye.vercel.app/api?username=xiaodye&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="xiaodye's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-xiaodye.vercel.app/api/top-langs/?username=xiaodye&layout=compact&langs_count=8&hide=html&hide_border=true&theme=transparent" alt="Top languages" />
+</div>
 
+## Toolbox
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain.js" />
+</p>
 
+<div align="center">
 
+<sub>Thanks for stopping by · 期待和你交流有趣的想法</sub>
 
-
-<!--
-**xiaodye/xiaodye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
