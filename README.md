@@ -15,9 +15,8 @@
 
 ## About me
 
-- 关注 Web 开发、工程效率与 AI 工具
-- 喜欢把实践整理成可复用的代码和文字
-- 欢迎通过 [掘金](https://juejin.cn/user/2586497355625341/posts) 交流想法
+- 一名前端开发者，正在从前端向全栈、Agent 开发、3D 可视化拓展。
+- 目前正在学习 WebGL、Three.js 与 Blender。
 
 ## GitHub overview
 
